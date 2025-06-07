@@ -1,23 +1,23 @@
 import { Card, CardContent } from "@/components/ui/card";
 
 const experiences = [{
-  title: "Exclusive Yachting Experience",
-  description: "Accommodating up to 18 guests, each yacht ensures a serene and personalized journey along the Nile.",
+  title: "Bespoke Nile Luxury",
+  description: "Private, handcrafted journeys aboard opulent Nile yachts blending ancient wonder with modern luxury.",
   color: "bg-blue-50 text-blue-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684533/cld-sample-4.jpg"
 }, {
-  title: "Cultural Immersion",
-  description: "Guided excursions to iconic sites like Karnak, Edfu, and Kom Ombo temples, led by expert Egyptologists.",
+  title: "Designer Interiors",
+  description: "Chic suites adorned with contemporary Middle Eastern flair and artistic details.",
   color: "bg-rose-50 text-rose-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684532/samples/cup-on-a-table.jpg"
 }, {
-  title: "Culinary Delights",
-  description: "Savor gourmet Egyptian, Mediterranean, and international cuisines prepared by onboard chefs using the freshest ingredients.",
+  title: "Personalized Butler Service",
+  description: "Every suite includes attentive butler service tailored to your every preference.",
   color: "bg-amber-50 text-amber-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684530/samples/balloons.jpg"
 }, {
-  title: "Wellness Onboard",
-  description: "Relax with spa treatments, enjoy the plunge pool, or unwind on the sundeck while taking in the Nile's vistas.",
+  title: "Curated Cultural Excursions",
+  description: "Expert-guided access to iconic temples, tombs, and hidden archeological gems.",
   color: "bg-emerald-50 text-emerald-600",
   image: "https://res.cloudinary.com/dqh2tacov/image/upload/v1734684526/samples/landscapes/beach-boat.jpg"
 }];
@@ -68,7 +68,7 @@ const ExperienceAndWhy = () => {
           <div className="w-24 h-1 bg-viking-gold mx-auto"></div>
         </div>
 
-        {/* Viking River Cruises Section */}
+        {/* Kazazian Nile Cruises Section */}
         <div className="mb-24">
           <div className="mb-12 flex justify-center border-2 border-viking-gold py-4">
             <img
